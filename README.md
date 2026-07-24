@@ -10,7 +10,7 @@
 
 ### About Me
 
--  그린컴퓨터아카데미 『디지털컨버전스 데이터 융합 JAVA & Spring 개발자 과정』 수료 예정 (2026.02 ~ 2026.07)
+- 그린컴퓨터아카데미 『디지털컨버전스 데이터 융합 JAVA & Spring 개발자 과정』 수료 예정 (2026.02 ~ 2026.07)
 
 ---
 
@@ -126,9 +126,3 @@
 | ------- | -------------- |
 | 2026.06 | 정보처리기사 (필기 합격) |
 | 2020.10 | 자동차운전면허 1종 보통  |
-
----
-
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=DongJ99108&style=for-the-badge&color=2f81f7" alt="profile views" />
-</p>
